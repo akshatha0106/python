@@ -3,6 +3,7 @@ This is a simple Digital Clock GUI application developed in Python using the Tki
 
 
 📌 Features
+
 ⏰ Real-time clock with automatic updates every second
 
 🖼️ Graphical User Interface built using Tkinter
